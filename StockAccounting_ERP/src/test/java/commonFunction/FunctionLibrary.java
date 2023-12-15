@@ -250,19 +250,19 @@ public static String generateDate()
 }
 public static void add()
 {
-	int a=456,b=98,c;
+	int a=432,b=8,c;
 	c=a+b;
 	System.out.println(c);
 }
 public static void div()
 {
-	int a=567,b=8,c;
+	int a=12,b=6,c;
 	c=a/b;
 	System.out.println(c);
 }
 public static void mul()
 {
-	int a=54,b=6,c;
+	int a=234,b=8,c;
 	c=a*b;
 	System.out.println(c);
 }
