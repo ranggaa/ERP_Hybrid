@@ -248,6 +248,24 @@ public static String generateDate()
 	DateFormat df = new SimpleDateFormat("YYYY_MM_hh dd_mm_ss");
 	return df.format(date);
 }
+public static void add()
+{
+	int a=456,b=98,c;
+	c=a+b;
+	System.out.println(c);
+}
+public static void div()
+{
+	int a=567,b=8,c;
+	c=a/b;
+	System.out.println(c);
+}
+public static void mul()
+{
+	int a=54,b=6,c;
+	c=a*b;
+	System.out.println(c);
+}
 }
 
 
